@@ -1,0 +1,10 @@
+node_modules
+.next
+.env.local
+local.db
+local.db-*
+AGENTS.md
+CLAUDE.md
+start.bat
+ligar-inicio-automatico.bat
+desligar-inicio-automatico.bat
